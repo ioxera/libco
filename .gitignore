@@ -1,0 +1,4 @@
+.cache
+**/*.so
+.vscode
+**/compiler_commands.json

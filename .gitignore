@@ -1,5 +1,6 @@
 .cache
 **/*.so
-**/*test*
+**/libco-test*
 .vscode
 **/compiler_commands.json
+**/.gdb_history

@@ -1,3 +1,14 @@
+//===============================================================
+// COPY FROM: https://git.nju.edu.cn/jyy/os-workbench/-/raw/M2/libco/tests/co-test.h
+//===============================================================
+
+/* 
+ * Here by copyright, credits attributed to wherever they belong.
+ * jyy (nju.edu.cn)
+ */
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
